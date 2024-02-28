@@ -1,0 +1,17 @@
+Brotli==1.1.0
+Faker==23.2.1
+inflate64==1.0.0      
+multivolumefile==0.2.3
+numpy==1.26.4
+pandas==2.2.1
+psutil==5.9.8
+py7zr==0.20.8
+pybcj==1.0.2
+pycryptodomex==3.20.0
+pyppmd==1.1.0
+python-dateutil==2.8.2
+pytz==2024.1
+pyzstd==0.15.9
+six==1.16.0
+texttable==1.7.0
+tzdata==2024.1
